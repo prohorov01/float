@@ -1,0 +1,113 @@
+<style> @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); 
+</style>
+.body{
+    width: 1100px;
+    height: 800px;
+    background-color: #c4c4c4;
+}
+.container{
+    width: 1000px;
+    height: 700px;
+    background-color: #c4c4c4;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-1{
+    width: 1000px;
+    height: 200px;
+    background-color: #e6e6e6;
+}
+.mb-50{
+    margin-top: 50px;
+}
+.pak-1{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F; 
+  
+}
+.number-one{
+    width: 200px;
+    height: 75px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 63px;
+    padding-bottom: 62px;
+}
+.pak-2{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F; 
+}
+.number-two{
+    width: 200px;
+    height: 75px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 63px;
+    padding-bottom: 62px;
+}
+.pak-01{
+    width: 100px;
+    height: 100px;
+    float: right;
+    background: #FC8F8F;
+    margin-left: 15px;
+}
+.number-three{
+    width: 100px;
+    height: 37.5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 31px;
+    padding-bottom: 31.5px;
+}
+.pak-2.2{
+    clear: both;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F; 
+}
+
+.pak-3{
+    
+    float: right;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F; 
+
+}
+.pr-15{
+    margin-right: 15px;
+}
+.flo-l{
+    float: left;
+}
+.pak-4{
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F; 
+    float: right;
+}
+.mt-0{
+    margin-top: 0;
+}
